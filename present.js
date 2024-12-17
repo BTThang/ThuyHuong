@@ -1,6 +1,6 @@
 
 var to = 'My Hường!';
-var gift_url = 'nice.jpg';
+var gift_url = 'nice.png';
 var gift_image_url = 'invitation.png';
 
 
