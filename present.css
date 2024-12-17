@@ -170,7 +170,7 @@ body {
 }
 
 .present-box>.side.top .to:after {
-    content: "Thư Mời Tốt Nghiệp";
+    content: "Thư Mời Làm Trọng Tài";
     display: inline-block;
     transform: rotateY(180deg);
     color: #990000;
