@@ -1,6 +1,6 @@
 
 var to = 'My Hường!';
-var gift_url = 'https://raw.githubusercontent.com/BTThang/ThuyHuong/refs/heads/master/invitation.png';
+var gift_url = 'nice.jpg';
 var gift_image_url = 'invitation.png';
 
 
